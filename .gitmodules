@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/tencentmusic/cube-studio.git
+[submodule "HirFormer2"]
+	path = HirFormer2
+	url = https://github.com/xin1u/HirFormer.git
