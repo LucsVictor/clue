@@ -4,3 +4,6 @@
 [submodule "HirFormer2"]
 	path = HirFormer2
 	url = https://github.com/xin1u/HirFormer.git
+[submodule "sam2"]
+	path = sam2
+	url = https://github.com/facebookresearch/sam2.git
